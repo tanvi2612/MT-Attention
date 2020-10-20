@@ -1,0 +1,3005 @@
+Example #1
+English Input: english
+Expected Output: hindi
+Actual Output: <unk> <unk> <e>
+
+Example #2
+English Input: she s your dream girl !
+Expected Output: वो तमहारी डरीमगरल होगी !
+Actual Output: म अपन वह ! <e>
+
+Example #3
+English Input: that s the guy i shot .
+Expected Output: कि मझ गोली मार दी आदमी ह .
+Actual Output: यही परसकार परापत <e>
+
+Example #4
+English Input: don t worry , little birdie .
+Expected Output: चिता मत करो , ननह पछी।
+Actual Output: <unk> मत <unk> <e>
+
+Example #5
+English Input: to the best .
+Expected Output: - सबस अचछा करन क लिए .
+Actual Output: <unk> <unk> <e>
+
+Example #6
+English Input: we are still a go .
+Expected Output: हमअभीभी एक जानाकररहह
+Actual Output: हम अभी जाना <e>
+
+Example #7
+English Input: my name s emma lyndsey .
+Expected Output: मरा नाम एमा लिडसी ह .
+Actual Output: मरा मरा मरा मरा मरा मरा मरा मरा मरा मरा मरा <e>
+
+Example #8
+English Input: yes , because i m a man .
+Expected Output: हा , क‍योकि म परष ह .
+Actual Output: हा , <e>
+
+Example #9
+English Input: you got a good looking girl .
+Expected Output: आप एक सदर लडकी ह .
+Actual Output: <unk> <unk> बताया <e>
+
+Example #10
+English Input: remember , friends and neighbors ,
+Expected Output: यादरख , दोसतो और पडोसियो ,
+Actual Output: <unk> परसकार <unk> <e>
+
+Example #11
+English Input: that s my mom s car !
+Expected Output: - यह मरी मा की कार ह !
+Actual Output: मरा <unk> टरक ! <e>
+
+Example #12
+English Input: get us close to him .
+Expected Output: हम उसक पास जाओ .
+Actual Output: हम भरमित करन <e>
+
+Example #13
+English Input: i m a sick man .
+Expected Output: म एक बीमार आदमी ह .
+Actual Output: म एक <unk> <e>
+
+Example #14
+English Input: man speaking native language
+Expected Output: [परष अपनी मातभाषा म बोल रहा ह]
+Actual Output: परष बोल रहा ह: <e>
+
+Example #15
+English Input: well , trust me , ma am .
+Expected Output: यकीन कीजिए , मडम।
+Actual Output: खर , मझ <e>
+
+Example #16
+English Input: you don t breathe in herve .
+Expected Output: आप herve म सास लन क लिए नही ह .
+Actual Output: <unk> मत <e>
+
+Example #17
+English Input: you ll learn it there .
+Expected Output: आप इस वहा सीखना होगा .
+Actual Output: तमह <unk> <e>
+
+Example #18
+English Input: can i help you ?
+Expected Output: कया म कछ मदद कर सकती ह ?
+Actual Output: म उसकी नबज ? <e>
+
+Example #19
+English Input: but that s the boring part .
+Expected Output: वह उबाऊ हिससा ह .
+Actual Output: लकिन चीज परसकार बात <e>
+
+Example #20
+English Input: you can t meet here !
+Expected Output: तम यहा बठक नही कर सकत !
+Actual Output: नही <unk> नही ! <e>
+
+Example #21
+English Input: what happened in goa ?
+Expected Output: परिया , गोवा म कया हआ था ?
+Actual Output: <unk> वह उठा ? <e>
+
+Example #22
+English Input: i m talking to her !
+Expected Output: - म उस करन क लिए बात कर रहा ह !
+Actual Output: म <unk> ! <e>
+
+Example #23
+English Input: least of all you .
+Expected Output: कम स कम तम सबो की .
+Actual Output: <unk> सब <e>
+
+Example #24
+English Input: this is the last time .
+Expected Output: यह आखिरी बार ह .
+Actual Output: यह मरा चीज <e>
+
+Example #25
+English Input: why the fuck ?
+Expected Output: - कयो बकवास ?
+Actual Output: कयो ? <e>
+
+Example #26
+English Input: loccent , all ports sealed .
+Expected Output: loccent , सभी बदरगाहो तय हो गया .
+Actual Output: <unk> लिख <unk> <e>
+
+Example #27
+English Input: it stinks of a coup .
+Expected Output: इसम तखतापलट की ब थी .
+Actual Output: यह परसकार <e>
+
+Example #28
+English Input: ominous music
+Expected Output: (अशभ सगीत)
+Actual Output: <unk> <unk> <unk> <e>
+
+Example #29
+English Input: but what s in your pocket ?
+Expected Output: लकिन तमहारी जब म कया ह ?
+Actual Output: लकिन य <unk> ? <e>
+
+Example #30
+English Input: i mean , there might be . . .
+Expected Output: मरा मतलब ह , हो सकता ह . . .
+Actual Output: म वहा <e>
+
+Example #31
+English Input: i need the toilet .
+Expected Output: म बाथरम जान की जररत ह .
+Actual Output: म <unk> <e>
+
+Example #32
+English Input: i ve to fix this .
+Expected Output: म इस ठीक करन क लिए ह।
+Actual Output: म इस <unk> <e>
+
+Example #33
+English Input: tis only sun and shadow .
+Expected Output: 'तीस कवल सरय और छाया .
+Actual Output: <unk> परसकार परापत <e>
+
+Example #34
+English Input: no , sir , i know hungover .
+Expected Output: नहीसर , मhungoverपता
+Actual Output: सर , नही , <e>
+
+Example #35
+English Input: the breach has collapsed !
+Expected Output: उललघन ढह गया ह !
+Actual Output: <unk> <unk> टरक ! <e>
+
+Example #36
+English Input: from humans koba learned hate . . .
+Expected Output: कोबा न मनषयो स नफरत करना सीखा . . .
+Actual Output: <unk> दोनो <unk> <e>
+
+Example #37
+English Input: l ll tell her , father .
+Expected Output: -म बोलता ह , डड
+Actual Output: <unk> , <e>
+
+Example #38
+English Input: as beautiful as you !
+Expected Output: -एकदम आप जसी .
+Actual Output: <unk> ! <e>
+
+Example #39
+English Input: you don t know walker , john .
+Expected Output: जॉन। वो डाइनोसॉर था।
+Actual Output: तमह <unk> मतलब <e>
+
+Example #40
+English Input: i am so fucked .
+Expected Output: म बहत गडबड ह .
+Actual Output: म <unk> <e>
+
+Example #41
+English Input: it s just a traveling name .
+Expected Output: यह सिरफ एक यातरा का नाम ह .
+Actual Output: उसका नाम <unk> <e>
+
+Example #42
+English Input: how far have you explored ?
+Expected Output: तमन कहा तक खोज की ?
+Actual Output: कस उमर शटिग ? <e>
+
+Example #43
+English Input: look at this guy .
+Expected Output: इस आदमी को दखो .
+Actual Output: उसका नाम <e>
+
+Example #44
+English Input: and if it hears ?
+Expected Output: और यह सनता ह ?
+Actual Output: और वह <unk> परसकार ? <e>
+
+Example #45
+English Input: that didn t happen here .
+Expected Output: यहा ऐसा नही हआ ह .
+Actual Output: यही <unk> <e>
+
+Example #46
+English Input: is it raining there ?
+Expected Output: कया वहा बारिश हो रही ह ?
+Actual Output: वहा कौन ? <e>
+
+Example #47
+English Input: car engine racing
+Expected Output: [कार इजन रसिग]
+Actual Output: <unk> <unk> <e>
+
+Example #48
+English Input: and i dishonor you ?
+Expected Output: - और म तमह अपमान ?
+Actual Output: म तमह ? <e>
+
+Example #49
+English Input: thank god , come on .
+Expected Output: भगवान का शकर ह , चलो।
+Actual Output: हम <unk> <e>
+
+Example #50
+English Input: she has nothing to say .
+Expected Output: वह कछ नही कहना ह।
+Actual Output: वो नही <e>
+
+Example #51
+English Input: that s the eiffel tower .
+Expected Output: कि एफिल टॉवर ह .
+Actual Output: यही परसकार परापत <e>
+
+Example #52
+English Input: so that s c s new digs .
+Expected Output: तो यह सी का नया कारयालय ह।
+Actual Output: तो वह विमान ? <e>
+
+Example #53
+English Input: i feel bad about that .
+Expected Output: म उस बार म बरा लगता ह .
+Actual Output: म अपन <unk> <e>
+
+Example #54
+English Input: what do you want ?
+Expected Output: तमकयाचाहतहो ?
+Actual Output: तमह चाहत हो ? <e>
+
+Example #55
+English Input: you shoot people with it .
+Expected Output: आप इसक साथ लोगो को गोली मार।
+Actual Output: तमह तमह तमह <e>
+
+Example #56
+English Input: you forgot , didn t you ?
+Expected Output: तम भल गया , तम नही ?
+Actual Output: तमह नबर नही ? <e>
+
+Example #57
+English Input: i m that shiva only !
+Expected Output: म य शिवा ह !
+Actual Output: म <unk> ! <e>
+
+Example #58
+English Input: she s my life .
+Expected Output: - वो मरी जिनदगी ह .
+Actual Output: वह वह परसकार परापत <e>
+
+Example #59
+English Input: you cannot change your fate .
+Expected Output: यह उसकी हडडियो बिखर , उसकी अतडियो म फाड . . . और कया ह उस उस तरह बना सकता ह ?
+Actual Output: म अपन <unk> <e>
+
+Example #60
+English Input: i m sorry , dad .
+Expected Output: - म माफी चाहता ह , पिताजी .
+Actual Output: म अफसोस ह <e>
+
+Example #61
+English Input: i need your help
+Expected Output: मझ आपकी मदद चाहिए
+Actual Output: म उसकी म <e>
+
+Example #62
+English Input: here s my notice of resignation .
+Expected Output: यह रही मर इसतीफ की सचना।
+Actual Output: मरा <unk> <e>
+
+Example #63
+English Input: in addition to sje am .
+Expected Output: इसक अलावा sjeeam करन क लिए .
+Actual Output: <unk> <unk> <e>
+
+Example #64
+English Input: i miss you so much .
+Expected Output: मझ तमहारी बहत याद आती ह।
+Actual Output: म तमह याद <e>
+
+Example #65
+English Input: standin between that ugly bastard
+Expected Output: कि बदसरत कमीन क बीच खड '
+Actual Output: <unk> परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार
+
+Example #66
+English Input: you are beautiful , so beautiful !
+Expected Output: तम कितनी सदर हो !
+Actual Output: बस , <e>
+
+Example #67
+English Input: trust in
+Expected Output: ♪मटरसट -एक '
+Actual Output: <unk> <unk> <e>
+
+Example #68
+English Input: let s take it home .
+Expected Output: क घर ल चलो .
+Actual Output: चलो बस <e>
+
+Example #69
+English Input: and they will be remembered .
+Expected Output: और व हमशा याद किया जाएगा .
+Actual Output: और य <unk> <e>
+
+Example #70
+English Input: welcome to the session .
+Expected Output: सतर म आपका सवागत ह
+Actual Output: <unk> मिथको <e>
+
+Example #71
+English Input: it s a present from raju .
+Expected Output: यह राज न दिया ह .
+Actual Output: यह परसकार परापत <e>
+
+Example #72
+English Input: it s really not that deep .
+Expected Output: यह सच ह कि गहरी नही ह .
+Actual Output: यह मतलब नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #73
+English Input: i have to do ?
+Expected Output: मझ कया करना ह ?
+Actual Output: म <unk> ? <e>
+
+Example #74
+English Input: they are dying in vain .
+Expected Output: व वयरथ म मर रह ह .
+Actual Output: <unk> <unk> <e>
+
+Example #75
+English Input: surrender to me now .
+Expected Output: और म तमह छोड दगा . . .
+Actual Output: <unk> <unk> <e>
+
+Example #76
+English Input: who pressed the transponder ?
+Expected Output: कौन टरासपोडर दबाया ?
+Actual Output: <unk> कौन <e>
+
+Example #77
+English Input: any news of hori ?
+Expected Output: होरी की कोई खबर ?
+Actual Output: <unk> वह <e>
+
+Example #78
+English Input: no , i ain t lost .
+Expected Output: नही , म नही खोया ह .
+Actual Output: नही , नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #79
+English Input: herakles did it by himself .
+Expected Output: herakles खद क दवारा किया था .
+Actual Output: <unk> परसकार परापत किया <e>
+
+Example #80
+English Input: you decide to remember .
+Expected Output: आप याद करन का फसला .
+Actual Output: <unk> <unk> <e>
+
+Example #81
+English Input: but you can t find her .
+Expected Output: लकिन आप उस नही मिल सकता ह।
+Actual Output: लकिन वादा नही <e>
+
+Example #82
+English Input: getting along is exhausting .
+Expected Output: दोसताना वयवहार बनाना काफी थका दन वाला ह।
+Actual Output: <unk> <unk> <e>
+
+Example #83
+English Input: let me tell you something .
+Expected Output: एक बात मझ कह लन दीजिए .
+Actual Output: मझ कछ <e>
+
+Example #84
+English Input: you wanna stop gambling .
+Expected Output: तमह रोक जआ .
+Actual Output: तमह तमह <unk> <e>
+
+Example #85
+English Input: yes , my lord
+Expected Output: - हा मर परभ
+Actual Output: हा , वह <e>
+
+Example #86
+English Input: we can make it .
+Expected Output: हम यह कर सकत ह .
+Actual Output: हम इस बात करनी <e>
+
+Example #87
+English Input: that was a romantic proposal .
+Expected Output: यही कारण ह कि एक रोमाटिक परसताव था।
+Actual Output: परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार
+
+Example #88
+English Input: no , not that door .
+Expected Output: नही , वह दरवाजा नही।
+Actual Output: नही , नही नही <e>
+
+Example #89
+English Input: i m afraid of the missus .
+Expected Output: मझ मालकिन स डर लग रहा ह .
+Actual Output: म <unk> <e>
+
+Example #90
+English Input: no , no . i do .
+Expected Output: मझ कया करना ह .
+Actual Output: नही , नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #91
+English Input: are you okay , sweetie ?
+Expected Output: आप ठीक ह , सवीटी ह ?
+Actual Output: ठीक ठीक <e>
+
+Example #92
+English Input: not a problem , man .
+Expected Output: नही एक समसया , यार।
+Actual Output: <unk> परसकार नही <e>
+
+Example #93
+English Input: mako , listen to me .
+Expected Output: mako , मरी बात सनो .
+Actual Output: मरी बात , <e>
+
+Example #94
+English Input: but to answer your question . . .
+Expected Output: लकिन आपक सवाल का जवाब दन क लिए . . .
+Actual Output: लकिन अपन <unk> <e>
+
+Example #95
+English Input: darren , maybe we should think . . .
+Expected Output: - डरन , शायद हम म सोचना चाहिए . . .
+Actual Output: हम <unk> <e>
+
+Example #96
+English Input: capece stays , and you re going .
+Expected Output: कपस रह रहा ह , और तम जा रह हो .
+Actual Output: विकटोरिया , <e>
+
+Example #97
+English Input: sir , your wallet .
+Expected Output: - सर , अपन बटए।
+Actual Output: <unk> नबर नही नबर नही नबर नही नबर नही नबर नही नबर नही नबर नही नबर नही नबर नही नबर
+
+Example #98
+English Input: let me out of here !
+Expected Output: मझ यहा स बाहर !
+Actual Output: हम यहा ! <e>
+
+Example #99
+English Input: did you scrape your elbow ?
+Expected Output: आप अपनी कोहनी परिमारजन था ?
+Actual Output: तमन तमह ? <e>
+
+Example #100
+English Input: what are you thinking ?
+Expected Output: आप कया सोच रह हो ?
+Actual Output: तमह कया ? <e>
+
+Example #101
+English Input: you have no idea .
+Expected Output: आपको अदाजा भी नही।
+Actual Output: अब बढिया नही <e>
+
+Example #102
+English Input: this is my moment .
+Expected Output: यह मरा समय ह।
+Actual Output: बरी ओवल बरी <e>
+
+Example #103
+English Input: it was this morning
+Expected Output: सबह तो लगाया था
+Actual Output: यह यह <unk> था। <e>
+
+Example #104
+English Input: we ve got to go , jack !
+Expected Output: हम जक जान क लिए मिल गया ह !
+Actual Output: हम मिला <e>
+
+Example #105
+English Input: rhythmic dripping , haunting melody continues
+Expected Output: [सगीतमय बदाबादी , रहसयमय सवरलहरी जारी रहती ह]
+Actual Output: विकटोरिया , <unk> परसकार <unk> <e>
+
+Example #106
+English Input: i had no idea .
+Expected Output: - मझ नही पता था .
+Actual Output: म अभी नही नही था। <e>
+
+Example #107
+English Input: it wasn t our intention , okay ?
+Expected Output: यह नही चाहत थ , ठीक ?
+Actual Output: यह , यह <e>
+
+Example #108
+English Input: you don t have much time .
+Expected Output: आप जयादा समय नही ह .
+Actual Output: तमह समझ नही <e>
+
+Example #109
+English Input: or tear them apart .
+Expected Output: या फिर उनह चीरकर अलग भी कर सकत ह।
+Actual Output: उनह <unk> उनह <unk> उनह <unk> उनह <unk> <e>
+
+Example #110
+English Input: that shall stand alone .
+Expected Output: अकल खड जायगा .
+Actual Output: यही परसकार सब <e>
+
+Example #111
+English Input: of leaving us militarily exposed .
+Expected Output: जब कि हम सनय रप स खतर म पड सकत ह।
+Actual Output: हम <unk> <e>
+
+Example #112
+English Input: i ve done everything you ve asked .
+Expected Output: आपन जो कहा मन किया।
+Actual Output: म तमह <unk> <e>
+
+Example #113
+English Input: i looked it up .
+Expected Output: - मन वो दखा ह .
+Actual Output: म आपको दखा। <e>
+
+Example #114
+English Input: they make people slaves .
+Expected Output: व लोगो को गलाम बनान।
+Actual Output: बाल-बाल ही सपरक <e>
+
+Example #115
+English Input: he will die out there .
+Expected Output: वह वहा स बाहर मर जाएगा .
+Actual Output: वह वह वह <e>
+
+Example #116
+English Input: i think i see it .
+Expected Output: मर खयाल स मझ दिख गया।
+Actual Output: म यह <unk> <e>
+
+Example #117
+English Input: i only want
+Expected Output: - म कवल want-
+Actual Output: म <unk> <e>
+
+Example #118
+English Input: are we there yet ?
+Expected Output: ) हम अभी तक कर रह ह ?
+Actual Output: हम अभी तक तय ? <e>
+
+Example #119
+English Input: i ve waited three days .
+Expected Output: म तीन दिन इतजार किया ह .
+Actual Output: म वह <e>
+
+Example #120
+English Input: now , listen to me .
+Expected Output: अब , मरीबातसनो
+Actual Output: अब , <e>
+
+Example #121
+English Input: can i have a word ?
+Expected Output: म एक शबद भी मिल सकता ह ?
+Actual Output: म म <unk> <e>
+
+Example #122
+English Input: soooper demand for my drug
+Expected Output: मरी दवा क लिए soooper माग
+Actual Output: <unk> परसकार परापत <e>
+
+Example #123
+English Input: i m afraid , this is goodbye .
+Expected Output: मझ डर लग रहा ह , इस अलविदा ह।
+Actual Output: विकटोरिया , म <e>
+
+Example #124
+English Input: how about right up there ?
+Expected Output: कस क बार म सही वहा ?
+Actual Output: म म ? <e>
+
+Example #125
+English Input: that we try it again .
+Expected Output: हम फिर स कोशिश कर .
+Actual Output: हम इस लडाई <e>
+
+Example #126
+English Input: which am i , hephaistion ?
+Expected Output: म , hephaistion ह ?
+Actual Output: म , वह ? <e>
+
+Example #127
+English Input: no honor among thieves , eh ?
+Expected Output: चोरो क बीच कोई सममान ह , ना ?
+Actual Output: <unk> , <e>
+
+Example #128
+English Input: we are going in hard .
+Expected Output: हम मशकिल म जा रह ह .
+Actual Output: हम कही म <e>
+
+Example #129
+English Input: okkoto is no fool .
+Expected Output: व एक गरव दौड रह ह .
+Actual Output: <unk> नही नही <e>
+
+Example #130
+English Input: are you sure about that ?
+Expected Output: आप इस बार म यकीन ह ?
+Actual Output: तम बवकफ ? <e>
+
+Example #131
+English Input: what s going on here ?
+Expected Output: यहा पर कया हो रहा ह ?
+Actual Output: चल <e>
+
+Example #132
+English Input: udaje for him ?
+Expected Output: क लिए उस udajes ~ ~ ?
+Actual Output: विकटोरिया <unk> परसकार लडना ? <e>
+
+Example #133
+English Input: who is this hot mess ?
+Expected Output: इस गरम झझट कौन ह ?
+Actual Output: यह कौन कौन कौन कौन ? <e>
+
+Example #134
+English Input: which , one day , you ll have .
+Expected Output: कौन सा ह , एक दिन , तम होगा .
+Actual Output: नमसत , <e>
+
+Example #135
+English Input: drive for the hole !
+Expected Output: - छद क लिए डराइव !
+Actual Output: <unk> <unk> ! <e>
+
+Example #136
+English Input: you ll respect one another .
+Expected Output: आप एक दसर का सममान करग .
+Actual Output: तमह <unk> <e>
+
+Example #137
+English Input: we can learn kung fu .
+Expected Output: हम कग फ सीख सकत ह।
+Actual Output: हम <unk> <e>
+
+Example #138
+English Input: getting matching tattoos .
+Expected Output: - मिलान टट हो रही ह .
+Actual Output: <unk> <unk> <e>
+
+Example #139
+English Input: it s easy for you , pelle .
+Expected Output: यह आसान ह , पल .
+Actual Output: यह <unk> <e>
+
+Example #140
+English Input: it s to scare people .
+Expected Output: यह लोगो को डरान क लिए ह .
+Actual Output: यह बढिया <unk> <e>
+
+Example #141
+English Input: yeah , i was .
+Expected Output: - हा , म था।
+Actual Output: हा , वह था। <e>
+
+Example #142
+English Input: sit the fuck down .
+Expected Output: नीच भाड म जाओ .
+Actual Output: <unk> बी <e>
+
+Example #143
+English Input: are there no other forces ?
+Expected Output: कोई अनय बलो रह ह ?
+Actual Output: वहा कयो ? <e>
+
+Example #144
+English Input: nice meeting you , boyses .
+Expected Output: मिलकर खशी हई लडको।
+Actual Output: सपरभात , <e>
+
+Example #145
+English Input: who was that guy anyway ?
+Expected Output: वस वह आदमी कौन था ?
+Actual Output: कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन
+
+Example #146
+English Input: those aren t bombs , it s artillery !
+Expected Output: व बम नही ह , य तोप ह !
+Actual Output: रकिए म नही , <e>
+
+Example #147
+English Input: oh , look , a bridge .
+Expected Output: दखो , ओह , एक पल .
+Actual Output: <unk> परसकार चाक <e>
+
+Example #148
+English Input: behind the yellow line .
+Expected Output: - पीछ पील लाइन .
+Actual Output: <unk> <unk> <e>
+
+Example #149
+English Input: tell them i m sorry .
+Expected Output: उनह बताओ कि म माफी चाहता ह।
+Actual Output: उनह बताओ उनह बताओ <e>
+
+Example #150
+English Input: to the space bar .
+Expected Output: सपस बार करन क लिए .
+Actual Output: <unk> मिथको <e>
+
+Example #151
+English Input: we re going down there .
+Expected Output: हनना: सथिर , सथिर , .
+Actual Output: हम कही जा <e>
+
+Example #152
+English Input: no formalities between us , shiva .
+Expected Output: हमार बीच म कोई औपचारिकता नही , शिवा .
+Actual Output: हम नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #153
+English Input: you can do that ?
+Expected Output: - तम ऐसा कर सकत हो ?
+Actual Output: - तमह ? <e>
+
+Example #154
+English Input: we re in this together .
+Expected Output: इसम हम साथ ह।
+Actual Output: हम म <e>
+
+Example #155
+English Input: hey , you a motor head ?
+Expected Output: अर , तम एक मोटर सिर ?
+Actual Output: अर , ? <e>
+
+Example #156
+English Input: yeah , we can handle it .
+Expected Output: - हा , हम इस सभाल कर सकत ह।
+Actual Output: हा हा , <e>
+
+Example #157
+English Input: he had no pain .
+Expected Output: उनह किसी तरह का दःख नही था . .
+Actual Output: वह वह वह नही वह था। <e>
+
+Example #158
+English Input: many mistakes have been made .
+Expected Output: कई गलतिया की गई ह .
+Actual Output: <unk> <unk> <e>
+
+Example #159
+English Input: yes , i was floored .
+Expected Output: - हा , म फिदा हो गया था।
+Actual Output: हा , वह था। <e>
+
+Example #160
+English Input: a king isn t born , alexander .
+Expected Output: एक राजा सिकदर , पदा नही हआ ह .
+Actual Output: <unk> परसकार नही , <e>
+
+Example #161
+English Input: can you fix my leg ?
+Expected Output: आप मरा पर ठीक कर सकत ह ?
+Actual Output: मरा <unk> ? <e>
+
+Example #162
+English Input: that is very sexy .
+Expected Output: यह बहत सकसी ह .
+Actual Output: यह परसकार बात <e>
+
+Example #163
+English Input: hey , hey , hey , hey .
+Expected Output: ह , ह , ह , ह .
+Actual Output: अर , <e>
+
+Example #164
+English Input: i can pay you .
+Expected Output: - म आप भगतान कर सकत ह।
+Actual Output: म तमह म <e>
+
+Example #165
+English Input: yeah . quid a shot . . .
+Expected Output: - हा।
+Actual Output: हा , <e>
+
+Example #166
+English Input: remember , we re all connected .
+Expected Output: लफटिनट ठीक ह .
+Actual Output: हम वह <unk> <e>
+
+Example #167
+English Input: i m so proud of you .
+Expected Output: आओ . तो तम पर गरव ह !
+Actual Output: म <unk> <unk> <e>
+
+Example #168
+English Input: shall i crucify your king ?
+Expected Output: कया म तमहार राजा को करस पर चढाऊ ?
+Actual Output: विकटोरिया अपन <unk> परसकार <unk> <e>
+
+Example #169
+English Input: who s gonna beat us now ?
+Expected Output: वाला हम अब कौन हरा ह ?
+Actual Output: हम कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन
+
+Example #170
+English Input: where have you been ?
+Expected Output: आप कहा थ ?
+Actual Output: <unk> ? <e>
+
+Example #171
+English Input: get in here now .
+Expected Output: अब यहा स जाओ .
+Actual Output: अब वह <e>
+
+Example #172
+English Input: look , i m coming over .
+Expected Output: दखो , म वहा आ रहा ह।
+Actual Output: जस , <e>
+
+Example #173
+English Input: collignon , dead and gone !
+Expected Output: collignon , मर गया !
+Actual Output: <unk> <unk> <e>
+
+Example #174
+English Input: i can t make him stir .
+Expected Output: मर स हिलता भी नही ह .
+Actual Output: म उस नही नही <e>
+
+Example #175
+English Input: yes , last door .
+Expected Output: - हा , पिछल दरवाज स .
+Actual Output: हा , वह <e>
+
+Example #176
+English Input: what do you mean ?
+Expected Output: - कया मतलब ह तमहारा ?
+Actual Output: मतलब मतलब मतलब ? <e>
+
+Example #177
+English Input: see if there s another one .
+Expected Output: यह उपकरण तो टटा हआ ह। दखो अगर दसरा मिल जाए।
+Actual Output: वहा <unk> <e>
+
+Example #178
+English Input: i don t even know .
+Expected Output: म भी नही जानती .
+Actual Output: म अभी नही नही नही नही नही नही नही नही नही नही नही नही <e>
+
+Example #179
+English Input: no shortcuts , no lies .
+Expected Output: कोई शॉरटकट नही , कोई निहित ह।
+Actual Output: नही , नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #180
+English Input: cup falls
+Expected Output: - (कप गिर जाता ह)
+Actual Output: <unk> परसकार परापत <e>
+
+Example #181
+English Input: but it feels like home .
+Expected Output: लकिन यह घर की तरह लगता ह .
+Actual Output: लकिन यह <unk> <e>
+
+Example #182
+English Input: i will not confirm that !
+Expected Output: म पषटि करत ह कि नही होगा !
+Actual Output: म ऐसा नही ! <e>
+
+Example #183
+English Input: go to the truck .
+Expected Output: टरक पर जाओ .
+Actual Output: <unk> <unk> <e>
+
+Example #184
+English Input: you making me good money .
+Expected Output: तम मझ अचछा पसा बना रही ह।
+Actual Output: मरा अपमान <e>
+
+Example #185
+English Input: moro ! are you dead ?
+Expected Output: आप कहा ह ?
+Actual Output: <unk> परसकार परापत <e>
+
+Example #186
+English Input: patient name phil wenneck .
+Expected Output: रोगी का नाम फिल wenneck .
+Actual Output: उसका नाम <unk> <e>
+
+Example #187
+English Input: actually there was something .
+Expected Output: असल म वहा कछ था .
+Actual Output: वहा था। <e>
+
+Example #188
+English Input: is he dead yet ?
+Expected Output: वह मर चका अभी तक ह ?
+Actual Output: वो नही ? <e>
+
+Example #189
+English Input: they found the teller boy .
+Expected Output: व टलर लडका मिला .
+Actual Output: <unk> <unk> <e>
+
+Example #190
+English Input: freedom county , near mount hope .
+Expected Output: सवततरता काउटी , परवत क पास आशा ह .
+Actual Output: <unk> परसकार बात लिख <e>
+
+Example #191
+English Input: she needs the sea .
+Expected Output: उस समदर की जररत ह
+Actual Output: वह परसकार परापत <e>
+
+Example #192
+English Input: she loves someone else .
+Expected Output: वो किसी और स पयार करती ह .
+Actual Output: <unk> परसकार परापत <e>
+
+Example #193
+English Input: you re a father , a soldier .
+Expected Output: आप एक पिता और सनिक ह .
+Actual Output: <unk> , <unk> <e>
+
+Example #194
+English Input: rock music
+Expected Output: (रॉक सगीत)
+Actual Output: (रॉक सगीत <e>
+
+Example #195
+English Input: go move the table .
+Expected Output: मज को हटाओ।
+Actual Output: आग बढो मरखो <e>
+
+Example #196
+English Input: you have given me all .
+Expected Output: तम मझ सब द दिया ह .
+Actual Output: -तम मझ सब <e>
+
+Example #197
+English Input: you can do it !
+Expected Output: तम यह कर सकत हो !
+Actual Output: - तमह ! <e>
+
+Example #198
+English Input: bring the helicopter down .
+Expected Output: हलीकापटर को नीच लाओ .
+Actual Output: <unk> <unk> <e>
+
+Example #199
+English Input: now come on , doc .
+Expected Output: अब आओ , डॉक .
+Actual Output: अब , <e>
+
+Example #200
+English Input: that was some serious shit .
+Expected Output: कि कछ गभीर बकवास था .
+Actual Output: यही यह यही था <e>
+
+Example #201
+English Input: i ll get a promotion .
+Expected Output: मझ तरककी मिलगी।
+Actual Output: म अपन <unk> <e>
+
+Example #202
+English Input: he s right above us .
+Expected Output: वह सही हमार ऊपर ह।
+Actual Output: वह वह वह <e>
+
+Example #203
+English Input: yeah , she s beautiful , man .
+Expected Output: / हा , वह ह , खबसरत आदमी .
+Actual Output: हा , <e>
+
+Example #204
+English Input: yeah , that s where we re going .
+Expected Output: हा , वह यह ह कि हम कहा जा रह ह .
+Actual Output: हा , हम नही <e>
+
+Example #205
+English Input: i m a man , okay ?
+Expected Output: म एक आदमी ह , ठीक ह ?
+Actual Output: म ठीक ह ? <e>
+
+Example #206
+English Input: you re welcome to it !
+Expected Output: आप इस करन क लिए सवागत कर रह ह !
+Actual Output: <unk> <unk> ! <e>
+
+Example #207
+English Input: how s the weather affect you ?
+Expected Output: कस आप मौसम को परभावित कर रहा ह ?
+Actual Output: (दरवाजाबदकर परसकार परापत <e>
+
+Example #208
+English Input: i m going to church .
+Expected Output: म चरच क लिए जा रहा ह .
+Actual Output: म जा <e>
+
+Example #209
+English Input: little parole rejection present .
+Expected Output: परोल असवीकति का परसकार .
+Actual Output: <unk> <unk> <e>
+
+Example #210
+English Input: nap time in sector g .
+Expected Output: सकटर जी म झपकी लन का समय।
+Actual Output: <unk> परसकार परापत <e>
+
+Example #211
+English Input: would you like a flyer ?
+Expected Output: कया आप एक परचा लग ?
+Actual Output: <unk> बवकफ ? <e>
+
+Example #212
+English Input: that was shit .
+Expected Output: - यह बकवास था .
+Actual Output: यही परसकार था <e>
+
+Example #213
+English Input: his name is kal .
+Expected Output: उसका नाम कल ह .
+Actual Output: उसका नाम <e>
+
+Example #214
+English Input: that you know of .
+Expected Output: आप क बार म पता ह .
+Actual Output: यही यह यही <e>
+
+Example #215
+English Input: collignon , down the john .
+Expected Output: collignon , पागल ह बवकफ ह
+Actual Output: <unk> परसकार चाक <e>
+
+Example #216
+English Input: i ll break your teeth .
+Expected Output: म तमहार दात तोड दगा .
+Actual Output: म अपन <unk> वीडियो <e>
+
+Example #217
+English Input: i ve never seen that before .
+Expected Output: म उसस पहल कभी नही दखा ह .
+Actual Output: म नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #218
+English Input: we march at once !
+Expected Output: हम एक बार म मारच !
+Actual Output: हम इस <unk> <e>
+
+Example #219
+English Input: you turn my world around .
+Expected Output: . . . तम मरी दनिया भर म बदल जात ह।
+Actual Output: मरा सामान चोरी <e>
+
+Example #220
+English Input: it s just some mistake .
+Expected Output: यह सिरफ कछ गलती ह .
+Actual Output: यह बस इस बी <e>
+
+Example #221
+English Input: i reassign two anggotamu .
+Expected Output: म दो anggotamu पन: असाइन कर .
+Actual Output: विकटोरिया <unk> <e>
+
+Example #222
+English Input: i m so sorry , excuse me .
+Expected Output: i'm very sorry , i'm sorry .
+Actual Output: मझ अफसोस , <e>
+
+Example #223
+English Input: never ask a man s earnings .
+Expected Output: आदमियो की कमायी कभी नही पछनी चाहिय .
+Actual Output: <unk> वह नही <unk> <e>
+
+Example #224
+English Input: tell me . . who opened the gate ?
+Expected Output: बताओ me . . who गट खोला ?
+Actual Output: सर <unk> <e>
+
+Example #225
+English Input: don t judge me , lucas .
+Expected Output: i justice , lucas .
+Actual Output: मझ मत <e>
+
+Example #226
+English Input: please , what are you doing ?
+Expected Output: कर , तम कया कर रह हो ?
+Actual Output: तमह <unk> ? <e>
+
+Example #227
+English Input: i ve heard that one before .
+Expected Output: -मन पहल भी सना ह।
+Actual Output: म इस को <e>
+
+Example #228
+English Input: the situation was under control .
+Expected Output: सथिति नियतरण म था .
+Actual Output: <unk> वह था। <e>
+
+Example #229
+English Input: how would you do that ?
+Expected Output: आप यह कस करना होगा ?
+Actual Output: अब कस ? <e>
+
+Example #230
+English Input: call the soldier uncle !
+Expected Output: - सनिक अकल को बलाइए !
+Actual Output: <unk> फोन <e>
+
+Example #231
+English Input: you want that drink now ?
+Expected Output: अब आप कि पीना चाहता ह ?
+Actual Output: तमह सब कछ ? <e>
+
+Example #232
+English Input: i will find him .
+Expected Output: म उस मिल जाएगा .
+Actual Output: म तमह म <e>
+
+Example #233
+English Input: that s the one condition .
+Expected Output: यह इनकी शरत ह।
+Actual Output: यही परसकार परापत <e>
+
+Example #234
+English Input: focus only on our deal
+Expected Output: कवल हमार समझौत पर फोकस
+Actual Output: <unk> <unk> <e>
+
+Example #235
+English Input: i m hungry keep digging .
+Expected Output: म भखा- खदाई रख ह -
+Actual Output: विकटोरिया अपन <unk> <unk> <e>
+
+Example #236
+English Input: you can tell her .
+Expected Output: आप उस बता सकत ह।
+Actual Output: म तमह <unk> <e>
+
+Example #237
+English Input: what hooliganism is this ?
+Expected Output: यह कया गडागरदी ह ?
+Actual Output: विकटोरिया यह ? <e>
+
+Example #238
+English Input: goodbye and thank you .
+Expected Output: अलविदा और धनयवाद .
+Actual Output: <unk> <unk> <e>
+
+Example #239
+English Input: round them all up .
+Expected Output: ल आओ सबको।
+Actual Output: <unk> <unk> <e>
+
+Example #240
+English Input: van approaching
+Expected Output: (वनआ )
+Actual Output: <unk> परसकार परापत <e>
+
+Example #241
+English Input: but mako is way out .
+Expected Output: लकिन mako क बाहर निकलन का रासता ह .
+Actual Output: लकिन वहा <e>
+
+Example #242
+English Input: you have a seat .
+Expected Output: आप एक सीट ह
+Actual Output: उसका रिकॉरड <unk> <e>
+
+Example #243
+English Input: this bird is baked .
+Expected Output: - यह पकषी पकाया जाता ह।
+Actual Output: विकटोरिया यह काननी जानती <e>
+
+Example #244
+English Input: no , no , no . . . ma am .
+Expected Output: नही , नही , नही . . .
+Actual Output: नही , नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही <e>
+
+Example #245
+English Input: i confess a disappointment .
+Expected Output: म एक निराशा कबल / म
+Actual Output: म <unk> परसकार परापत <e>
+
+Example #246
+English Input: but there be one , jack .
+Expected Output: लकिन एक नाव , जक ह . . .
+Actual Output: लकिन वहा <e>
+
+Example #247
+English Input: well , try this on !
+Expected Output: तो , जरा लडकर दिखाओ !
+Actual Output: खर , <e>
+
+Example #248
+English Input: is mistress trixie available ?
+Expected Output: -टरिकसी स बात हो सकती ह ?
+Actual Output: विकटोरिया <unk> परसकार ? <e>
+
+Example #249
+English Input: shut up , all right .
+Expected Output: - अप , ठीक रहो .
+Actual Output: ठीक , <e>
+
+Example #250
+English Input: he s locked in the pen .
+Expected Output: वह कलम म बद कर दिया ह .
+Actual Output: वह वह <e>
+
+Example #251
+English Input: no luck , you ll die
+Expected Output: 'कोई भागय , तम मर जाओग'
+Actual Output: नही , नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #252
+English Input: which showed the ineffective nature
+Expected Output: अपरभावी परकति स पता चला ह कौन
+Actual Output: <unk> परसकार परापत <e>
+
+Example #253
+English Input: should we shoot him ?
+Expected Output: - गोली मार द ?
+Actual Output: हम करना करना चाहिए ? <e>
+
+Example #254
+English Input: all shouting in encouragement
+Expected Output: (सभीपरोतसाहनमचिलला)
+Actual Output: <unk> सब <e>
+
+Example #255
+English Input: you re still an effective team ?
+Expected Output: आपअभी एक परभावी टीम ह
+Actual Output: अब तमह ? <e>
+
+Example #256
+English Input: get the weapons hot .
+Expected Output: हथियारो गरम कर .
+Actual Output: <unk> <unk> <e>
+
+Example #257
+English Input: to your congress , your courts .
+Expected Output: अपन कागरस क लिए , अपन अदालतो .
+Actual Output: <unk> <unk> <e>
+
+Example #258
+English Input: cerberus has been shut down .
+Expected Output: cerberus को बद किया गया ह .
+Actual Output: <unk> परसकार परापत <e>
+
+Example #259
+English Input: is this because of yesterday ?
+Expected Output: - ? यह कल की वजह ह ?
+Actual Output: यह मासपशियो <e>
+
+Example #260
+English Input: now he s killing us .
+Expected Output: अब वह हम मार रहा ह .
+Actual Output: अब वह हम वह <e>
+
+Example #261
+English Input: he s ready for action .
+Expected Output: वह काररवाई क लिए तयार ह .
+Actual Output: वह वह <unk> <e>
+
+Example #262
+English Input: you son of a bitch .
+Expected Output: तम एक कतिया का बटा।
+Actual Output: <unk> बट <e>
+
+Example #263
+English Input: can you repair an engine ?
+Expected Output: आप एक इजन को ठीक कर सकत ह ?
+Actual Output: <unk> लिख जा ? <e>
+
+Example #264
+English Input: what a lovely shawl , auntie .
+Expected Output: कितनी सदर चादर , ठाकर मा .
+Actual Output: <unk> परसकार <unk> <e>
+
+Example #265
+English Input: i did not bring anything .
+Expected Output: म कछ भी नही लाई .
+Actual Output: म नही नही <e>
+
+Example #266
+English Input: no . listen , don t worry .
+Expected Output: नही , सनो , चिता मत करो .
+Actual Output: नही , नही नही नही <e>
+
+Example #267
+English Input: this is my sister , raven .
+Expected Output: यह मरी बहन , रवन ह .
+Actual Output: मरा जगह , मरा <e>
+
+Example #268
+English Input: tell her from toljan .
+Expected Output: टॉलजन की तरफ स उस कहो .
+Actual Output: बी म <unk> <e>
+
+Example #269
+English Input: what will happen to us ?
+Expected Output: हमारा कया होगा ?
+Actual Output: हम हम ? <e>
+
+Example #270
+English Input: did i offend you ?
+Expected Output: मन आपको अपमान किया ह ?
+Actual Output: दरगा न ? <e>
+
+Example #271
+English Input: i know , but i promise .
+Expected Output: -जानता ह . . . लकिन वादा करता ह .
+Actual Output: म , <e>
+
+Example #272
+English Input: take us home .
+Expected Output: - हम घर ल चलो .
+Actual Output: शष <unk> <e>
+
+Example #273
+English Input: to their village , sardab
+Expected Output: -अपन गाव , सरदाब
+Actual Output: <unk> , <unk> <e>
+
+Example #274
+English Input: boy speaking native language
+Expected Output: लडका मातभाषा म बोल रहा ह:
+Actual Output: ह: बोल बोल बोल बोल बोल बोल बोल बोल बोल बोल बोल बोल बोल बोल बोल बोल बोल बोल बोल
+
+Example #275
+English Input: i would never say that .
+Expected Output: मझ लगता ह कि कभी नही कहग .
+Actual Output: म नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #276
+English Input: this is my home , too .
+Expected Output: यह मरा भी घर ह .
+Actual Output: मरा मरा भागयशाली ह <e>
+
+Example #277
+English Input: ain t she a beauty ?
+Expected Output: वह एक सौदरयनहीह ?
+Actual Output: <unk> परसकार परापत नही ? <e>
+
+Example #278
+English Input: your wife s name is meera
+Expected Output: 'अपनी पतनी क नाम मीरा ह'
+Actual Output: उसका नाम <unk> मासपशियो <e>
+
+Example #279
+English Input: give me the bottle .
+Expected Output: मझ बोतल द दो
+Actual Output: मरा <unk> <e>
+
+Example #280
+English Input: you can prove this ?
+Expected Output: तम य साबित कर सकत हो ?
+Actual Output: <unk> लिख ? <e>
+
+Example #281
+English Input: okay , q , give me something .
+Expected Output: अचछा , कय , मझ कछ काम का तो दो। रचन
+Actual Output: ठीक मझ , <e>
+
+Example #282
+English Input: steve gray already did that .
+Expected Output: सटीव गर पहल स ही था .
+Actual Output: <unk> परसकार बात <e>
+
+Example #283
+English Input: chief executive producer tokuma yasuyoshi
+Expected Output: मखयकारयकारीनिरमाता tokuma yasuyoshi
+Actual Output: <unk> परसकार परापत <e>
+
+Example #284
+English Input: you tell us .
+Expected Output: - आप हम बताय।
+Actual Output: हम आपको करना <e>
+
+Example #285
+English Input: hereafter you re on your own .
+Expected Output: अब खद समझो।
+Actual Output: <unk> <unk> <e>
+
+Example #286
+English Input: it s actually quite simple .
+Expected Output: यह वासतव म काफी आसान ह।
+Actual Output: यह बढिया नही <unk> <e>
+
+Example #287
+English Input: they were brash fuckers .
+Expected Output: व घमडी कमीन थ।
+Actual Output: व <unk> व <unk> <e>
+
+Example #288
+English Input: you can do it !
+Expected Output: आप यह कर सकत ह !
+Actual Output: - तमह ! <e>
+
+Example #289
+English Input: the fruit durga brings you .
+Expected Output: वो जो दरगा तमको लाकर दती ह .
+Actual Output: <unk> <unk> <e>
+
+Example #290
+English Input: blast them all at once .
+Expected Output: एक बार म ही सबक सब उड जाएग।
+Actual Output: <unk> उनह <unk> उनह <unk> <e>
+
+Example #291
+English Input: how does he look ?
+Expected Output: कसा दिखता ह वो ?
+Actual Output: अब वह ? <e>
+
+Example #292
+English Input: i ll talk to hope .
+Expected Output: म आशा ह कि करन क लिए बात करग।
+Actual Output: म अभी <unk> <e>
+
+Example #293
+English Input: i need the help .
+Expected Output: म मदद की जररत ह .
+Actual Output: म उसकी म <e>
+
+Example #294
+English Input: she was a dear friend .
+Expected Output: वह एक परिय दोसत था .
+Actual Output: वह परसकार था था। था। <e>
+
+Example #295
+English Input: what s the disappearing audience ?
+Expected Output: गायब शरोतागण कया ह ?
+Actual Output: <unk> <unk> ? <e>
+
+Example #296
+English Input: you need to hear this .
+Expected Output: आप इस सनन की जररत ह .
+Actual Output: हम इस <unk> <e>
+
+Example #297
+English Input: well , see this pie chart ?
+Expected Output: यह पाइ चारट दख रह हो ?
+Actual Output: खर , वह <unk> <e>
+
+Example #298
+English Input: i don t want this marriage .
+Expected Output: मझ य शादी नही करनी
+Actual Output: म नही म <e>
+
+Example #299
+English Input: welcome to my nightmare
+Expected Output: ♪मरासपनाआपकासवागतह
+Actual Output: मरा <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+
+Example #300
+English Input: your life s in danger .
+Expected Output: आपका जीवन खतर म ह।
+Actual Output: <unk> <unk> <e>
+
+Example #301
+English Input: you ever been rock climbing ?
+Expected Output: -आपन कभी चटटानो की चढाई की ह ?
+Actual Output: - तमह ? <e>
+
+Example #302
+English Input: yes , i know !
+Expected Output: -मझ पता ह मन तमहारी डील छीनी .
+Actual Output: हा , वह <e>
+
+Example #303
+English Input: there s a place i know .
+Expected Output: म जानता ह कि वहा एक जगह ह .
+Actual Output: वहा <unk> परसकार ह <e>
+
+Example #304
+English Input: see you later .
+Expected Output: ~ अलविदा दखो तम .
+Actual Output: यही ओकजा <unk> <e>
+
+Example #305
+English Input: that girl shouldn t survive .
+Expected Output: उस लडकी को जीवित रहन क लिए नही करना चाहिए।
+Actual Output: तो वह नही <e>
+
+Example #306
+English Input: i ll see you later , hank .
+Expected Output: म बाद म हाक आप दखग।
+Actual Output: म तमह <unk> <e>
+
+Example #307
+English Input: i couldn t save them .
+Expected Output: म उनह नही बचा सक .
+Actual Output: म उनह उनह नही उनह नही उनह नही उनह नही उनह नही उनह नही उनह नही उनह नही उनह नही
+
+Example #308
+English Input: who is he ? !
+Expected Output: - वह कौन ह ?
+Actual Output: वो कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन कौन
+
+Example #309
+English Input: overlapping chatter
+Expected Output: [अतिवयापी बकवास]
+Actual Output: <unk> परसकार परापत <e>
+
+Example #310
+English Input: delighted to hear it .
+Expected Output: सनकर खशी हई।
+Actual Output: <unk> <unk> <unk> <e>
+
+Example #311
+English Input: but that s a complete scam .
+Expected Output: पर यह सौ फीसदी धोखाधडी ह।
+Actual Output: लकिन वह परसकार एक परसकार ह <e>
+
+Example #312
+English Input: hey , mr . lady man !
+Expected Output: ए , शरी लडी मन !
+Actual Output: अर , <e>
+
+Example #313
+English Input: yes , my lord .
+Expected Output: - हा , महाराजा .
+Actual Output: हा , मरा <unk> <e>
+
+Example #314
+English Input: never fucking better , pete .
+Expected Output: - सब बढिया , विनसट ? - एकदम बढिया , पीट।
+Actual Output: रकिए <unk> नही <unk> <e>
+
+Example #315
+English Input: take this and drink .
+Expected Output: इस लो और पी लो .
+Actual Output: शष <unk> <e>
+
+Example #316
+English Input: door slams
+Expected Output: (दरवाजा जोर स बद)
+Actual Output: (दरवाजाबदकर म <e>
+
+Example #317
+English Input: no , it was last thursday .
+Expected Output: पिछल बहसपति को था।
+Actual Output: नही , नही था। <e>
+
+Example #318
+English Input: i was a little concerned . .
+Expected Output: -मझ फिकर होन लगी थी
+Actual Output: म था। <e>
+
+Example #319
+English Input: did you do the tricks ?
+Expected Output: आप चाल नही किया था ?
+Actual Output: दरगा न ? <e>
+
+Example #320
+English Input: and then we got one .
+Expected Output: और वह हम मिल गया।
+Actual Output: हम मिला चक मिला गया . <e>
+
+Example #321
+English Input: what is that ?
+Expected Output: - वह कया ह ?
+Actual Output: यही ओकजा ? <e>
+
+Example #322
+English Input: your credit s fine , mr . torrance .
+Expected Output: तमहारा करडिट ठीक ह , शरी टॉरस .
+Actual Output: <unk> <unk> <e>
+
+Example #323
+English Input: look at her eye .
+Expected Output: - यहा आख को दखो !
+Actual Output: जस <unk> <e>
+
+Example #324
+English Input: mom , what s all okay ?
+Expected Output: मा , सब ठीक ह ?
+Actual Output: रकिए (घरघराना) ठीक <e>
+
+Example #325
+English Input: i ll see ya .
+Expected Output: - ठीक।
+Actual Output: म <unk> <e>
+
+Example #326
+English Input: scotty , what s up , man ?
+Expected Output: सकॉटी , ऊपर आदमी कया ह ?
+Actual Output: विकटोरिया , परसकार ह ? <e>
+
+Example #327
+English Input: who s gonna prove me wrong ?
+Expected Output: कौन मझ गलत साबित करगा ?
+Actual Output: मरा मतलब ? <e>
+
+Example #328
+English Input: but she was ravana s sister .
+Expected Output: लकिन वह रावण की बहन थी .
+Actual Output: लकिन वह थी। <e>
+
+Example #329
+English Input: carlyle armadyne the ceo ?
+Expected Output: कारलाइल armadyne सीईओ ?
+Actual Output: <unk> परसकार परापत <e>
+
+Example #330
+English Input: i knew who it was .
+Expected Output: मझ पता था की वो आप थ .
+Actual Output: म इस था। <e>
+
+Example #331
+English Input: here we go .
+Expected Output: - यहा हम चल .
+Actual Output: हम <unk> <e>
+
+Example #332
+English Input: hey , it s me , sarah .
+Expected Output: अर , यह मझ ह , सारा .
+Actual Output: अर , <e>
+
+Example #333
+English Input: right in the nuts .
+Expected Output: सही म पागल .
+Actual Output: <unk> <unk> <e>
+
+Example #334
+English Input: i have your commander in chief .
+Expected Output: म अपन कमाडर इन चीफ ह .
+Actual Output: म अपन <unk> <e>
+
+Example #335
+English Input: i can t hear you .
+Expected Output: - म सन नही सका .
+Actual Output: म तमह नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #336
+English Input: you fucking useless , fucking cunt !
+Expected Output: बस म इतना ही सहन कर सकता ह।
+Actual Output: तमह <unk> <e>
+
+Example #337
+English Input: we ll talk about it later .
+Expected Output: हम इसक बार म बाद म बात करग .
+Actual Output: हम इस <unk> <e>
+
+Example #338
+English Input: and they know it .
+Expected Output: और व यह जानत .
+Actual Output: और व सपरक <e>
+
+Example #339
+English Input: man , we screwed now .
+Expected Output: सब किया धरा गड गोबर हो जाएगा।
+Actual Output: हम <unk> <e>
+
+Example #340
+English Input: there is no institute .
+Expected Output: का कहना ह कि सडक क नीच हसताकषर - मिच - -परगतिशील जवालामखी एक असफल विचार था .
+Actual Output: वहा कोई नही ह था। <e>
+
+Example #341
+English Input: yes , everything is true .
+Expected Output: हा , सब कछ सही ह .
+Actual Output: हा , वह <e>
+
+Example #342
+English Input: just luke , l buddy .
+Expected Output: बस लयक , 0l 'दोसत .
+Actual Output: बस , <e>
+
+Example #343
+English Input: is this all right ?
+Expected Output: - कया यह ठीक ह ?
+Actual Output: यह सब ? <e>
+
+Example #344
+English Input: choppers , prepare your knives .
+Expected Output: हलिकॉपटरो , अपन चाक तयार करत ह .
+Actual Output: विकटोरिया अपन <unk> परसकार चाक <e>
+
+Example #345
+English Input: you grew a conscience .
+Expected Output: तमहारा जमीर जाग गया।
+Actual Output: <unk> लिख <unk> <e>
+
+Example #346
+English Input: i saw what i saw .
+Expected Output: मन दखा कि म कया दखा था।
+Actual Output: म को म <e>
+
+Example #347
+English Input: max , where are you ?
+Expected Output: मकस , तम कहा हो ?
+Actual Output: <unk> , <e>
+
+Example #348
+English Input: do you remember him ?
+Expected Output: तम उस याद ह ?
+Actual Output: तमह याद ? <e>
+
+Example #349
+English Input: what was her name .
+Expected Output: उसका नाम था . . .
+Actual Output: उसका नाम <e>
+
+Example #350
+English Input: we can treat you .
+Expected Output: हम आप का इलाज कर सकत ह .
+Actual Output: हम <unk> <e>
+
+Example #351
+English Input: what do i do ?
+Expected Output: म कया कर ?
+Actual Output: म कया ? <e>
+
+Example #352
+English Input: i like our farm .
+Expected Output: मझ हमार खत पसद ह .
+Actual Output: हमार हमार हमार <e>
+
+Example #353
+English Input: what will we do ?
+Expected Output: हम कया करग ?
+Actual Output: हम कया ? <e>
+
+Example #354
+English Input: get him out of there .
+Expected Output: उस वहा स निकल जाओ .
+Actual Output: वहा <e>
+
+Example #355
+English Input: let s get you up here .
+Expected Output: ह कि तम यहा मिलता ह .
+Actual Output: चलो बस नही चल <e>
+
+Example #356
+English Input: well , not bad yourself .
+Expected Output: वस , आपकी उडान भी बरी नही थी।
+Actual Output: खर , नही <e>
+
+Example #357
+English Input: no , come on , man .
+Expected Output: - नही , चलो , यार .
+Actual Output: नही , नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #358
+English Input: thanks for that , jack .
+Expected Output: इसक लिए धन‍यवाद , जक .
+Actual Output: <unk> वह <unk> <e>
+
+Example #359
+English Input: severance pay for years .
+Expected Output: 19 वरषो की नौकरी का हरजाना .
+Actual Output: लडाई <unk> <e>
+
+Example #360
+English Input: see you tomorrow , asshole .
+Expected Output: बवकफ गध कही क।
+Actual Output: सबह म <e>
+
+Example #361
+English Input: hang on to your diaper !
+Expected Output: तयार हो जाओ !
+Actual Output: अपन <unk> <e>
+
+Example #362
+English Input: come on , let s do this .
+Expected Output: चलो , यह चलो करत ह .
+Actual Output: चलो , चलो <e>
+
+Example #363
+English Input: bell tolling
+Expected Output: [घटी tolling ]
+Actual Output: tolling] <e>
+
+Example #364
+English Input: i was in her memories .
+Expected Output: म उसकी यादो म था .
+Actual Output: म था। <e>
+
+Example #365
+English Input: i d die for you .
+Expected Output: म तमहार लिए मर जाएगा .
+Actual Output: म तमह म <e>
+
+Example #366
+English Input: i can t leave him .
+Expected Output: म उस नही छोड सकत !
+Actual Output: म नही नही <e>
+
+Example #367
+English Input: you gotta be kidding me .
+Expected Output: तम मझस मजाक कर रह हो .
+Actual Output: म तमह याद <e>
+
+Example #368
+English Input: is that a yes . . . or no ?
+Expected Output: कया वह एक हा ह या न ?
+Actual Output: यही परसकार चीज नही ? <e>
+
+Example #369
+English Input: are we not with you ?
+Expected Output: कया हम तमहार साथ नही ह ?
+Actual Output: हम कही म <e>
+
+Example #370
+English Input: i ll be right there .
+Expected Output: म अभी वहा हो जाएगा .
+Actual Output: म अभी वहा <e>
+
+Example #371
+English Input: are you kidding ?
+Expected Output: ~ आप मजाक कर रह हो ?
+Actual Output: बवकफ तमह ? <e>
+
+Example #372
+English Input: i believe it s insured .
+Expected Output: म यह बीमा किया जाता ह विशवास .
+Actual Output: म इस <e>
+
+Example #373
+English Input: have you come to shop ?
+Expected Output: शॉपिग करन आए हो ?
+Actual Output: <unk> पास ? <e>
+
+Example #374
+English Input: i was like , ok .
+Expected Output: मझ लगा , ओक .
+Actual Output: म बवकफ था। <e>
+
+Example #375
+English Input: and remain open long enough
+Expected Output: और खला रहना काफी दर तक
+Actual Output: <unk> परसकार परापत <e>
+
+Example #376
+English Input: tell me , i am waiting .
+Expected Output: मझ बताओ , म इतजार कर रहा ह।
+Actual Output: सर , मझ बताओ <e>
+
+Example #377
+English Input: kent , you re sports today .
+Expected Output: कट , आप आज खल रह ह।
+Actual Output: <unk> परसकार परापत <e>
+
+Example #378
+English Input: don t you say hi ?
+Expected Output: = तम नमसत नही कहत ?
+Actual Output: <unk> मतलब ? <e>
+
+Example #379
+English Input: wind banging shutters
+Expected Output: [हवा बद पीटन]
+Actual Output: <unk> <unk> <e>
+
+Example #380
+English Input: my dad s hurt , pandu .
+Expected Output: मर पिताजी की चोट , पाड।
+Actual Output: मरा <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+
+Example #381
+English Input: i couldn t find him
+Expected Output: मलाकात नही हो पाई
+Actual Output: म <unk> <e>
+
+Example #382
+English Input: prison time is slow time .
+Expected Output: जल का समय धीमा होता ह .
+Actual Output: <unk> परसकार परापत <e>
+
+Example #383
+English Input: codex is krypton s future .
+Expected Output: कोडकस करीपटोण क भविषय ह .
+Actual Output: विकटोरिया <unk> परसकार परापत <e>
+
+Example #384
+English Input: all we will achieve .
+Expected Output: हम सभी को परापत होगा . .
+Actual Output: हम <unk> <e>
+
+Example #385
+English Input: every muscle gains extra power
+Expected Output: हर मासपशी लाभ अतिरिकत बिजली
+Actual Output: बी म <unk> <e>
+
+Example #386
+English Input: what do you mean ?
+Expected Output: - तमहारा कया मतलब ह ?
+Actual Output: मतलब मतलब मतलब ? <e>
+
+Example #387
+English Input: it s kind of cool .
+Expected Output: यह सचमच शानदार ह .
+Actual Output: यह <unk> <e>
+
+Example #388
+English Input: the kyoto protocol was ending .
+Expected Output: कयोटो परोटोकॉल समापत होन को थी .
+Actual Output: <unk> परसकार परापत <e>
+
+Example #389
+English Input: i don t want it .
+Expected Output: म यह नही चाहत।
+Actual Output: म म नही <unk> <e>
+
+Example #390
+English Input: i think he heard us .
+Expected Output: लगता ह उसन हमारी बात सन ली।
+Actual Output: हम हम इस <e>
+
+Example #391
+English Input: what are you doing here ?
+Expected Output: आप यहा पर कया कर रह ह ?
+Actual Output: तम कया ? <e>
+
+Example #392
+English Input: i feel a change .
+Expected Output: मझ अचछा महसस हो रहा ह
+Actual Output: म अपन <unk> <e>
+
+Example #393
+English Input: go on some more
+Expected Output: कछ और पर जाओ
+Actual Output: <unk> <unk> <e>
+
+Example #394
+English Input: i know , i know .
+Expected Output: मझ पता , मझ पता ह .
+Actual Output: म , <e>
+
+Example #395
+English Input: tell me where you are .
+Expected Output: मझ बताओ कि तम कहा हो।
+Actual Output: बी मतलब <e>
+
+Example #396
+English Input: money instead of sheets ?
+Expected Output: कपडो की बजाय पस .
+Actual Output: पसा <unk> ? <e>
+
+Example #397
+English Input: i need something robust , precise .
+Expected Output: म कछ मजबत , सटीक की जररत ह।
+Actual Output: म , म <e>
+
+Example #398
+English Input: the count of monte crisco ?
+Expected Output: काउट ऑव करिसको .
+Actual Output: (दरवाजाबदकर म ? <e>
+
+Example #399
+English Input: you will feed them yourselves .
+Expected Output: आप उनह अपन आप को फीड होगा।
+Actual Output: -तम <unk> <e>
+
+Example #400
+English Input: you made me forget ?
+Expected Output: तम मझ भल जाओ ?
+Actual Output: तमह मझ ? <e>
+
+Example #401
+English Input: if you don t mind ?
+Expected Output: आप मन नही ह ?
+Actual Output: <unk> <unk> ? <e>
+
+Example #402
+English Input: what will happen to him ?
+Expected Output: उस कया होगा ?
+Actual Output: उसस कया ? <e>
+
+Example #403
+English Input: let s get out of here .
+Expected Output: चलो यहा स चल जाओ .
+Actual Output: हम चल चल चल चल चल चल चल चल चल चल चल चल चल चल चल चल चल चल चल
+
+Example #404
+English Input: i have no idea why .
+Expected Output: मझ पता नही कयो ह .
+Actual Output: म अभी नही <e>
+
+Example #405
+English Input: yeah , doris , mom s friend .
+Expected Output: - ? - हा , डोरिस , मा दोसत .
+Actual Output: हा , दोसत हा <e>
+
+Example #406
+English Input: waller , we re almost there .
+Expected Output: वालर , हम लगभग वहा रह ह।
+Actual Output: <unk> परसकार परापत <e>
+
+Example #407
+English Input: where are you going ?
+Expected Output: तम कहा जा रह हो ?
+Actual Output: <unk> चल <e>
+
+Example #408
+English Input: we will control the system .
+Expected Output: हम परणाली को नियतरित करगा .
+Actual Output: हम हम <e>
+
+Example #409
+English Input: rappelling down in there .
+Expected Output: हम लोग नीच कि गहरी , अधर hoie क rappel ह ?
+Actual Output: <unk> परसकार <e>
+
+Example #410
+English Input: how is this possible ?
+Expected Output: यह कस ममकिन ह ?
+Actual Output: (दरवाजाबदकर परसकार कस ? <e>
+
+Example #411
+English Input: although he likes to talk .
+Expected Output: हालाकि वह बात करना पसद करता ह .
+Actual Output: <unk> परसकार परापत <unk> <e>
+
+Example #412
+English Input: you lost your son ?
+Expected Output: आपका बटा खो गया ?
+Actual Output: तमह तमह ? <e>
+
+Example #413
+English Input: it was on you too .
+Expected Output: यह भी आप पर था .
+Actual Output: यह दोनो <unk> था। <e>
+
+Example #414
+English Input: come over to the meeting .
+Expected Output: मीटीग म आओ .
+Actual Output: आओ <unk> <e>
+
+Example #415
+English Input: kdk calling kdk .
+Expected Output: क डी क 1 बला रहा ह क डी क 12 को
+Actual Output: शॉ <unk> <e>
+
+Example #416
+English Input: calabrese , formerly dealt with apartments .
+Expected Output: calabrese पहल अपारटमटो का इलाज किया .
+Actual Output: <unk> परसकार <unk> <e>
+
+Example #417
+English Input: i think they were afraid .
+Expected Output: मझ लगता ह कि व डरत थ।
+Actual Output: म <unk> <e>
+
+Example #418
+English Input: alan , we need you , buddy .
+Expected Output: एलन , हम आपको जररत ह , दोसत .
+Actual Output: हम <unk> <e>
+
+Example #419
+English Input: how far to the mainland ?
+Expected Output: कितनी दर मखय भमि क लिए ?
+Actual Output: <unk> कस ? <e>
+
+Example #420
+English Input: i told you go home .
+Expected Output: म तमह घर जाना बताया।
+Actual Output: म तमह याद बताया <e>
+
+Example #421
+English Input: he sent you a message .
+Expected Output: उसन एक सदश भजा ह तमार लीए .
+Actual Output: वह तमह सदश <e>
+
+Example #422
+English Input: some mistakes cannot be pardoned .
+Expected Output: कछ गलतियो को माफ नही किया जा सकता।
+Actual Output: बी म बी <e>
+
+Example #423
+English Input: he s a concerned citizen .
+Expected Output: मि .
+Actual Output: वह परसकार परापत <e>
+
+Example #424
+English Input: it s about the american .
+Expected Output: यह अमरिका क बार म ह .
+Actual Output: यह चीज <e>
+
+Example #425
+English Input: i watched you burn !
+Expected Output: मन तमह आग म जलत दखा था !
+Actual Output: म <unk> ! <e>
+
+Example #426
+English Input: got you some ice cream .
+Expected Output: आप कछ आइसकरीम मिल गया .
+Actual Output: बी म <unk> <e>
+
+Example #427
+English Input: yeah . you want free windows .
+Expected Output: तमह मफत खिडकिया चाहिए।
+Actual Output: हा म तमह <e>
+
+Example #428
+English Input: shorties not enjoying their mother .
+Expected Output: छोट बचचो को अपनी मा का पयार नही मिल रहा ह .
+Actual Output: <unk> परसकार नही <unk> <e>
+
+Example #429
+English Input: control , this is pc .
+Expected Output: कटरोल 486।
+Actual Output: विकटोरिया , <e>
+
+Example #430
+English Input: i don t think you can .
+Expected Output: मझ नही लगता आप ऐसा कर सकत ह।
+Actual Output: म तमह याद नही <e>
+
+Example #431
+English Input: i accept my fate . mouthing
+Expected Output: म अपन भागय को सवीकार करत ह . (अटकल)
+Actual Output: म अपन <unk> <e>
+
+Example #432
+English Input: danny s gone away , mrs . torrance .
+Expected Output: डनी दर चला गया ह , शरीमती टॉरस .
+Actual Output: <unk> <unk> <e>
+
+Example #433
+English Input: why are you here ?
+Expected Output: -तम यहा कस ?
+Actual Output: कयो कयो ? कयो ? <e>
+
+Example #434
+English Input: put your seatbelt on .
+Expected Output: - अपनी सीट बलट बाधो .
+Actual Output: सवाल को रखो <e>
+
+Example #435
+English Input: you keep your mouth shut !
+Expected Output: आप अपना मह बद रखन क लिए !
+Actual Output: म तमह याद <e>
+
+Example #436
+English Input: but without you two . . .
+Expected Output: लकिन तम दो बिना . . .
+Actual Output: लकिन वह <unk> <e>
+
+Example #437
+English Input: what a beautiful golden deer !
+Expected Output: एक खबसरत सनहर हिरण कया !
+Actual Output: <unk> <unk> ! <e>
+
+Example #438
+English Input: why did you do it ?
+Expected Output: तमन ऐसा कयो किया ?
+Actual Output: कयो तमह कयो ? <e>
+
+Example #439
+English Input: well , there are worse things .
+Expected Output: दनिया म इसस भी बरी चीज होती ह।
+Actual Output: खर , <e>
+
+Example #440
+English Input: rock music
+Expected Output: (रॉक सगीत)
+Actual Output: (रॉक सगीत <e>
+
+Example #441
+English Input: someday it will kill me .
+Expected Output: किसी दिन यह मझ मार डालग।
+Actual Output: <unk> <unk> <e>
+
+Example #442
+English Input: p rm ! nder m nk
+Expected Output: ©@ पीआर एम ndeआरएम @nkoo
+Actual Output: ©@ पीआर एम nderएम@ नायक <e>
+
+Example #443
+English Input: what about poor parmenion ?
+Expected Output: कया गरीब parmenion क बार म ?
+Actual Output: <unk> <unk> ? <e>
+
+Example #444
+English Input: i will find him lara .
+Expected Output: म उस लारा मिलगा .
+Actual Output: म तमह म <e>
+
+Example #445
+English Input: what good is that now ?
+Expected Output: इसका कया फायदा अब ?
+Actual Output: अचछ लग रहा ? <e>
+
+Example #446
+English Input: don t even look at it .
+Expected Output: इस भी मत दखना नही ह .
+Actual Output: <unk> मत <e>
+
+Example #447
+English Input: that s why i called you .
+Expected Output: इसलिए मन तमह फोन किया .
+Actual Output: यही वह हो। <e>
+
+Example #448
+English Input: i m messing up her name .
+Expected Output: म उसका नाम खिलवाड कर रहा ह .
+Actual Output: उसका नाम रहा ह <e>
+
+Example #449
+English Input: raleigh , listen to me !
+Expected Output: रल , मरी बात सनो !
+Actual Output: जिपसी , <e>
+
+Example #450
+English Input: you realize what you re doing ?
+Expected Output: आप कया कर रह ह एहसास ह ?
+Actual Output: तमन तमह ? <e>
+
+Example #451
+English Input: i wanna get out .
+Expected Output: म बाहर निकलना चाहत ह .
+Actual Output: म जाना खलो <e>
+
+Example #452
+English Input: now , let s get out there .
+Expected Output: अब , यहा स निकलत ह।
+Actual Output: अब वहा <e>
+
+Example #453
+English Input: what are you talking about ?
+Expected Output: आप किस बार म बात कर रह ह ?
+Actual Output: म कया ? <e>
+
+Example #454
+English Input: woman speaking native language
+Expected Output: महिला अपनी मातभाषा म बोल रही ह:
+Actual Output: म बोल रहा ह: <e>
+
+Example #455
+English Input: we have to get out .
+Expected Output: हम बाहर निकलना होगा .
+Actual Output: हम हम परापत करनी <e>
+
+Example #456
+English Input: so why is he coming ?
+Expected Output: तो कयो आ रहा ह ?
+Actual Output: कयो <unk> कयो ? <e>
+
+Example #457
+English Input: mm , close the deal .
+Expected Output: सौदा खतम।
+Actual Output: विकटोरिया , <unk> परसकार परापत <e>
+
+Example #458
+English Input: who is this guy ?
+Expected Output: यह कौन ह ?
+Actual Output: यह कौन कौन ? <e>
+
+Example #459
+English Input: i think he s mean .
+Expected Output: मझ लगता ह कि वह मतलब ह .
+Actual Output: म मतलब मतलब <e>
+
+Example #460
+English Input: why s he staring at me ?
+Expected Output: यह मझ कयो घर रहा ह ?
+Actual Output: कयो मझ ? <e>
+
+Example #461
+English Input: get me quarter brandy .
+Expected Output: मझ एक कवाटर बराडी दो .
+Actual Output: <unk> <unk> <e>
+
+Example #462
+English Input: did he threaten your sister ?
+Expected Output: कया उसन तमहारी बहन को धमकी दी ?
+Actual Output: उसन <unk> परसकार किया ? <e>
+
+Example #463
+English Input: i will come meet dad .
+Expected Output: म दख पिता आ जाएगा।
+Actual Output: म अपन <unk> <e>
+
+Example #464
+English Input: all right , calm down .
+Expected Output: ठीक ह , शात हो जाओ .
+Actual Output: <unk> , <e>
+
+Example #465
+English Input: love is his name
+Expected Output: लव उसका नाम ह
+Actual Output: उसका नाम <e>
+
+Example #466
+English Input: creaking continues
+Expected Output: [चरमराती जारी]
+Actual Output: <unk> परसकार <unk> <e>
+
+Example #467
+English Input: i fucking love this job .
+Expected Output: मझ यह नौकरी बहत पसद ह।
+Actual Output: विकटोरिया म जाना <e>
+
+Example #468
+English Input: they ve got the hydra six !
+Expected Output: व हाइडरा छह मिल गया ह !
+Actual Output: <unk> <unk> <e>
+
+Example #469
+English Input: they must be gone .
+Expected Output: यकीनन व चल गए होग।
+Actual Output: व सामान चोरी सकता <e>
+
+Example #470
+English Input: can anybody hear me ?
+Expected Output: - कोई मझ सन पा रहा ह ?
+Actual Output: हम इस ? <e>
+
+Example #471
+English Input: coming , i m leaving home !
+Expected Output: रको , म घर स अभी निकल रही ह !
+Actual Output: विकटोरिया , <e>
+
+Example #472
+English Input: i will go with him .
+Expected Output: म उसक साथ जाना होगा।
+Actual Output: म तमह हमला था। <e>
+
+Example #473
+English Input: get out of there .
+Expected Output: वहा स बाहर जाओ !
+Actual Output: वहा जाओ <e>
+
+Example #474
+English Input: i ve got one for you .
+Expected Output: तमहार लिए भी एक ह।
+Actual Output: म तमह समझ <e>
+
+Example #475
+English Input: rock music playing
+Expected Output: (रॉकसगीतखल)
+Actual Output: (रॉक सगीत <e>
+
+Example #476
+English Input: but the site s good .
+Expected Output: लकिन साइट अचछा ह .
+Actual Output: लकिन वह अचछ लग रहा <e>
+
+Example #477
+English Input: you re not leaving me !
+Expected Output: तम मझ नही जा रह ह !
+Actual Output: -तम नही ! <e>
+
+Example #478
+English Input: p rm ! nder m nk
+Expected Output: ©@ पीआर एम nderएम@ nkoo 
+Actual Output: ©@ पीआर एम nderएम@ नायक <e>
+
+Example #479
+English Input: bringing out the full package .
+Expected Output: परा पकज बाहर लाना .
+Actual Output: <unk> <unk> <e>
+
+Example #480
+English Input: breaking off for security sweep .
+Expected Output: सरकषा जाच क लिए अलग हो रह ह।
+Actual Output: <unk> परसकार परापत <e>
+
+Example #481
+English Input: it would work this time .
+Expected Output: यह इस समय काम करगा .
+Actual Output: यह यह ह <e>
+
+Example #482
+English Input: history rewards the bold .
+Expected Output: इतिहास परसकार बोलड .
+Actual Output: <unk> परसकार परापत <e>
+
+Example #483
+English Input: i m wearing my uniform
+Expected Output: म अपनी वरदी पहन रहा ह
+Actual Output: विकटोरिया अपन <unk> <e>
+
+Example #484
+English Input: or a giant skinless goat .
+Expected Output: या एक विशाल skinless बकरी।
+Actual Output: <unk> <unk> <e>
+
+Example #485
+English Input: carl , look at me .
+Expected Output: - कारल , मझ दखो .
+Actual Output: <unk> <unk> <e>
+
+Example #486
+English Input: guys , keep your eyes open .
+Expected Output: दोसतो , अपनी आख खली रखो .
+Actual Output: <unk> <unk> <e>
+
+Example #487
+English Input: why did i do it ?
+Expected Output: म ऐसा कयो किया ?
+Actual Output: कयो कयो ? कयो ? <e>
+
+Example #488
+English Input: i reckon she will .
+Expected Output: म वह होगा लगता ह .
+Actual Output: म सोचता था। <e>
+
+Example #489
+English Input: you ll never get big .
+Expected Output: तम कभी बड नही होग .
+Actual Output: तमह <unk> नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #490
+English Input: . . . magnetic west of the potomac .
+Expected Output: . . . potomac की चबकीय पशचिम
+Actual Output: <unk> परसकार परापत <e>
+
+Example #491
+English Input: your skull will explode .
+Expected Output: तमहारी खोपडी उड जाएगी .
+Actual Output: <unk> <unk> <e>
+
+Example #492
+English Input: so we re good there .
+Expected Output: तो हम वहा अचछा कर रह ह .
+Actual Output: हम ही भागयशाली ह <e>
+
+Example #493
+English Input: you will have my son .
+Expected Output: तम मर बट होगा .
+Actual Output: म बट <e>
+
+Example #494
+English Input: and two cats to feed .
+Expected Output: और दो बिललयो का पट भरना ह।
+Actual Output: <unk> <unk> <e>
+
+Example #495
+English Input: we can t stop a meltdown .
+Expected Output: हम पिघलाव को नही रोक सकत।
+Actual Output: हम नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #496
+English Input: the registrar s still waiting .
+Expected Output: रजिसटरार अभी भी इतजार कर रहा ह।
+Actual Output: <unk> वह <e>
+
+Example #497
+English Input: i ve changed my mind
+Expected Output: मन अपना इरादा बदल लिया ह
+Actual Output: म <unk> <e>
+
+Example #498
+English Input: aren t they the same ?
+Expected Output: कया दोनो एक ही नही होत ?
+Actual Output: मरा मतलब ? <e>
+
+Example #499
+English Input: relaying hydro rig coordinates now .
+Expected Output: relaying पनबिजली योजना अब निरदशाक .
+Actual Output: <unk> लिख <unk> <e>
+
+Example #500
+English Input: very nice name sir .
+Expected Output: बहत अचछा नाम ह सर
+Actual Output: सर बहत अचछ लग <e>
+
+Example #501
+English Input: stop giving him money .
+Expected Output: उस पस दन बद करो .
+Actual Output: फोटो उस <unk> <e>
+
+Example #502
+English Input: jake says thank you .
+Expected Output: जक कहता ह शकरिया .
+Actual Output: <unk> <unk> <e>
+
+Example #503
+English Input: i ve never used one before .
+Expected Output: म पहल एक का इसतमाल नही किया .
+Actual Output: म नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #504
+English Input: don t be crude , frank .
+Expected Output: , फरक कचच मत होना।
+Actual Output: <unk> मत <unk> <e>
+
+Example #505
+English Input: amanda waller has a plan .
+Expected Output: अमाडा वालर एक योजना ह।
+Actual Output: <unk> परसकार परापत <e>
+
+Example #506
+English Input: i feel strong , you know .
+Expected Output: म सशकत महसस करता ह , यह तमह पता ह
+Actual Output: म तमह म <e>
+
+Example #507
+English Input: it doesn t look like him .
+Expected Output: यह उसकी तरह नही लगती ह।
+Actual Output: यह मतलब नही नही नही नही नही <e>
+
+Example #508
+English Input: it s all good .
+Expected Output: , यह सब अचछा ह .
+Actual Output: यह सब अचछा लग रहा <e>
+
+Example #509
+English Input: give me a count .
+Expected Output: गिनती करवाओ !
+Actual Output: मरा <unk> <e>
+
+Example #510
+English Input: phil , just do it .
+Expected Output: फिल , बस करो .
+Actual Output: विकटोरिया , <e>
+
+Example #511
+English Input: rodrigue likes overhearing children s stories .
+Expected Output: cat को बचचो की कहानिया पसद ह
+Actual Output: <unk> <unk> <e>
+
+Example #512
+English Input: you wouldn t filthy your hands ,
+Expected Output: आप अपन हाथ गद नही होगा
+Actual Output: तमह <unk> <e>
+
+Example #513
+English Input: don t screw up this time !
+Expected Output: इस बार गडबड मत करना !
+Actual Output: <unk> मत ! <e>
+
+Example #514
+English Input: often more than once .
+Expected Output: अकसर एक बार स अधिक।
+Actual Output: विकटोरिया <unk> <e>
+
+Example #515
+English Input: i didn t have a choice .
+Expected Output: म एक विकलप नही था।
+Actual Output: म <unk> <e>
+
+Example #516
+English Input: we have castle sky .
+Expected Output: हमन कसल सकाई प कबजा कर लिया।
+Actual Output: हम कही <e>
+
+Example #517
+English Input: this is me saying sorry .
+Expected Output: म इसस माफी तो माग रहा ह।
+Actual Output: यह मरा सामान चोरी . <e>
+
+Example #518
+English Input: my family deserves it .
+Expected Output: मर परिवार क काबिल ह .
+Actual Output: मरा मरा <unk> मरा <e>
+
+Example #519
+English Input: ma m , in the leopard dress . . .
+Expected Output: तदएकीपोशाकम ma' m , . . .
+Actual Output: ओकजा म <e>
+
+Example #520
+English Input: a g . i . joe flag .
+Expected Output: एक जी . आई . जो झडा .
+Actual Output: <unk> परसकार <unk> <e>
+
+Example #521
+English Input: we re gonna be okay .
+Expected Output: हम ठीक हो जाओग .
+Actual Output: हम हमला होन वाला <e>
+
+Example #522
+English Input: what s the code to d ?
+Expected Output: डी227 का कोड कया ह ?
+Actual Output: <unk> <unk> ? <e>
+
+Example #523
+English Input: you re confusing the kid .
+Expected Output: आप बचच को भरमित कर रह ह .
+Actual Output: <unk> <unk> <e>
+
+Example #524
+English Input: or a feeling of hope .
+Expected Output: मझ उममीद स भरना ?
+Actual Output: <unk> या <unk> <e>
+
+Example #525
+English Input: that is a class ten !
+Expected Output: यह वाला तो दस नबरी ह !
+Actual Output: <unk> परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार परसकार
+
+Example #526
+English Input: you suck it !
+Expected Output: - तम इस चसो !
+Actual Output: <unk> लिख ! <e>
+
+Example #527
+English Input: uh , no . . . kissing in public .
+Expected Output: उह , नही . . . सारवजनिक रप स चबन .
+Actual Output: उह , नही <e>
+
+Example #528
+English Input: this is the body ?
+Expected Output: यह शरीर ह ?
+Actual Output: यह दगा-फसाद यह ? <e>
+
+Example #529
+English Input: are you going somewhere , kol ?
+Expected Output: आप कही कोल जा रह ह ?
+Actual Output: सर , चल <e>
+
+Example #530
+English Input: lachamma lost her egg . . .
+Expected Output: lachamma lost her egg . . .
+Actual Output: <unk> परसकार परापत <e>
+
+Example #531
+English Input: p rm ! nder m nk
+Expected Output: ©पी@rmnderएम@nkoo
+Actual Output: ©@ पीआर एम nderएम@ नायक <e>
+
+Example #532
+English Input: finnerty s been relieved of command .
+Expected Output: -फिनरटी को कमान स हटा दिया गया ह।
+Actual Output: <unk> परसकार परापत <e>
+
+Example #533
+English Input: chocolate it shall be .
+Expected Output: चॉकलट होगा .
+Actual Output: <unk> <unk> <unk> <e>
+
+Example #534
+English Input: this doesn t concern you .
+Expected Output: यह चिता तम नही करता ह .
+Actual Output: यह काननी जानती <e>
+
+Example #535
+English Input: the nightingale sang on .
+Expected Output: बलबल गाती रही
+Actual Output: <unk> <unk> <e>
+
+Example #536
+English Input: does no else think that s . . .
+Expected Output: कया कोई और नही सोचता कि . . .
+Actual Output: य मतलब नही नही नही <e>
+
+Example #537
+English Input: i can never forget that .
+Expected Output: म कभी नही भल सकता ह।
+Actual Output: म नही नही नही नही नही नही नही नही <e>
+
+Example #538
+English Input: did you say speed ?
+Expected Output: आप सपीड कहा ?
+Actual Output: तमन तमह ? <e>
+
+Example #539
+English Input: baby , life s too short
+Expected Output: ♪शिश , जीवनबहतछोटाह♪ ♪शिश , जीवनबहतछोटा ह
+Actual Output: <unk> , <e>
+
+Example #540
+English Input: documents , i said .
+Expected Output: - दसतावज , मन कहा .
+Actual Output: विकटोरिया , <e>
+
+Example #541
+English Input: snipers on the roof .
+Expected Output: छत प सनाइपर ह।
+Actual Output: <unk> परसकार परापत <e>
+
+Example #542
+English Input: we will grow old together .
+Expected Output: हम एक साथ ही बड होग।
+Actual Output: हम हम <e>
+
+Example #543
+English Input: can i bring . . .
+Expected Output: - म ला सकता ह . . .
+Actual Output: म <unk> <e>
+
+Example #544
+English Input: you been frighten my mother !
+Expected Output: तम मरी मा डरान गया !
+Actual Output: <unk> <unk> <e>
+
+Example #545
+English Input: let me out , okja .
+Expected Output: मझ छोडो , ओकजा।
+Actual Output: हम इस द <e>
+
+Example #546
+English Input: yes , of course .
+Expected Output: - हा , बिलकल .
+Actual Output: हा , <unk> <e>
+
+Example #547
+English Input: i fear for caesar s life .
+Expected Output: मझ सीजर क पराणो का भय ह।
+Actual Output: म अपन <unk> <e>
+
+Example #548
+English Input: no . we don t remember .
+Expected Output: नही , हम याद नही ह .
+Actual Output: हम कही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #549
+English Input: cale , come check this out .
+Expected Output: आकर य दखो।
+Actual Output: विकटोरिया , <e>
+
+Example #550
+English Input: you can t take tonight off .
+Expected Output: तम आज रात ऑफ नही ल सकत हो .
+Actual Output: <unk> नही नही <e>
+
+Example #551
+English Input: it s not me , astrid .
+Expected Output: यह काम मर लिए उचित नही , ऐसटरिड।
+Actual Output: यह बढिया नही , <e>
+
+Example #552
+English Input: i haven t had time . man
+Expected Output: मर पास समय नही था . परष:
+Actual Output: म वह नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही नही
+
+Example #553
+English Input: are you serious ?
+Expected Output: - आप गभीर ह ?
+Actual Output: मरा मतलब ? <e>
+
+Example #554
+English Input: all right , all right .
+Expected Output: सब ठीक सब ठीक।
+Actual Output: ठीक , <e>
+
+Example #555
+English Input: you have my word .
+Expected Output: -मरा वचन ह।
+Actual Output: मरा मरा अपमान मरा अपमान मरा अपमान मरा अपमान मरा अपमान मरा अपमान मरा अपमान मरा अपमान मरा अपमान मरा
+
+Example #556
+English Input: engaged in recovery now .
+Expected Output: अब वसली म लग हए ह .
+Actual Output: <unk> परसकार परापत <e>
+
+Example #557
+English Input: you need a miracle .
+Expected Output: आप एक चमतकार की जररत ह।
+Actual Output: <unk> <unk> <e>
+
+Example #558
+English Input: what the hell s going on ?
+Expected Output: य कया हो रहा ह ?
+Actual Output: कया चल <e>
+
+Example #559
+English Input: p rm ! nder m nk
+Expected Output: ©@ पीआर एम एन डी ईआर एम@ nkoo 
+Actual Output: ©@ पीआर एम nderएम@ नायक <e>
+
+Example #560
+English Input: still . . . yeah , you re totally right .
+Expected Output: अब भी . . . / हा , तम हो परी तरह स सही ह .
+Actual Output: अब , <e>
+
+Example #561
+English Input: six one is going down .
+Expected Output: छह-एक नीच जा रहा ह।
+Actual Output: कठिन आपको जा <e>
+
+Example #562
+English Input: how d you know that ?
+Expected Output: तमन कस जाना ?
+Actual Output: कस उमर शटिग ? <e>
+
+Example #563
+English Input: this is not help .
+Expected Output: यह मदद नही ह .
+Actual Output: य दगा-फसाद नही ह <e>
+
+Example #564
+English Input: fall back , fall back !
+Expected Output: पीछ आ जाओ , वापस आत ह !
+Actual Output: <unk> <unk> <e>
+
+Example #565
+English Input: he doesn t use one .
+Expected Output: - वह एक का उपयोग नही करता .
+Actual Output: वह वह वह <e>
+
+Example #566
+English Input: or he has to die .
+Expected Output: या वह मर गया ह।
+Actual Output: मरन <unk> <e>
+
+Example #567
+English Input: then go , antigonus , and cleitus .
+Expected Output: फिर , antigonus , और कलीटस जाना .
+Actual Output: <unk> <unk> <e>
+
+Example #568
+English Input: i know what you want .
+Expected Output: म तम कया चाहत हो .
+Actual Output: म तमह याद <e>
+
+Example #569
+English Input: otherwise , no direct sunlight .
+Expected Output: अनयथा , कोई सीध धप .
+Actual Output: अनयथा , नही <e>
+
+Example #570
+English Input: we re all best friends .
+Expected Output: हम सब अचछ दोसत ह .
+Actual Output: हम हमला होन <e>
+
+Example #571
+English Input: it s not political .
+Expected Output: यह राजनीतिक नही ह।
+Actual Output: यह बढिया नही <unk> <e>
+
+Example #572
+English Input: sold to paddle .
+Expected Output: चपप88तक बिक
+Actual Output: <unk> परसकार परापत <e>
+
+Example #573
+English Input: do you read me , romilly ?
+Expected Output: कया तम सन रह हो , romilly ?
+Actual Output: - तमह ? <e>
+
+Example #574
+English Input: no one can afford it .
+Expected Output: कोई इस खरीदन म समरथ नही ह।
+Actual Output: हम कही नही नही <e>
+
+Example #575
+English Input: my niece does that .
+Expected Output: मरी भतीजी करता ह .
+Actual Output: मरा मरा <unk> मरा <e>
+
+Example #576
+English Input: my heart is pounding . . .
+Expected Output: my heart is pounding . . .
+Actual Output: मरा मरा भागयशाली <e>
+
+Example #577
+English Input: and what does he do ?
+Expected Output: और वह कया करता ह ?
+Actual Output: और वह ? <e>
+
+Example #578
+English Input: unfortunately , that will blow away .
+Expected Output: दरभागय स , कि दर उडा दगा।
+Actual Output: <unk> परसकार <unk> <e>
+
+Example #579
+English Input: discipline and the bible .
+Expected Output: अनशासन और बाइबल .
+Actual Output: <unk> परसकार परापत <e>
+
+Example #580
+English Input: marines don t exist anymore .
+Expected Output: मरीन , अब . . . नही होत .
+Actual Output: <unk> परसकार परापत नही <unk> <e>
+
+Example #581
+English Input: who do you love ?
+Expected Output: तम किसस पयार करत हो ?
+Actual Output: - तमह ? <e>
+
+Example #582
+English Input: you know where he works ?
+Expected Output: जहा वह काम करता आप जानत ह ?
+Actual Output: पता जानती मतलब ? <e>
+
+Example #583
+English Input: we all make mistakes .
+Expected Output: हम सब गलतिया करत ह .
+Actual Output: हम हमला होन <e>
+
+Example #584
+English Input: we form our own .
+Expected Output: हम अपन सवय क रप म .
+Actual Output: हम हमार महमान <e>
+
+Example #585
+English Input: that ain t him .
+Expected Output: - वह उस नही ह .
+Actual Output: यही परसकार परापत नही <e>
+
+Example #586
+English Input: tonight on the brain rapist
+Expected Output: मसतिषक बलातकारी पर आज रात:
+Actual Output: <unk> पर <e>
+
+Example #587
+English Input: you gotta lock your doors .
+Expected Output: तम होगा अपन दरवाज बद कर।
+Actual Output: तमह <unk> <e>
+
+Example #588
+English Input: he was my father !
+Expected Output: उनहोन कहा कि मर पिता था !
+Actual Output: वह वह टरक वह था। <e>
+
+Example #589
+English Input: this painting came in .
+Expected Output: यहचितरअदरआया
+Actual Output: <unk> परसकार परापत <e>
+
+Example #590
+English Input: you won t find them
+Expected Output: तम उनह खोज नही पाओग
+Actual Output: तो उनह नही उनह नही उनह नही उनह नही उनह नही उनह <e>
+
+Example #591
+English Input: heart beating
+Expected Output: [दिल की धडकन]
+Actual Output: <unk> परसकार परापत <e>
+
+Example #592
+English Input: number , fire !
+Expected Output: नबर 1 , आग !
+Actual Output: <unk> (बीप) <e>
+
+Example #593
+English Input: yeah , but , there are . . .
+Expected Output: हा , लकिन , दखत ह . . .
+Actual Output: हा , <e>
+
+Example #594
+English Input: so , if anything happens inside . .
+Expected Output: तो , कछ भी अदर होता ह , तो . .
+Actual Output: तो , <e>
+
+Example #595
+English Input: you want to kill me ?
+Expected Output: तम मझ मारना चाहत हो ?
+Actual Output: सर <unk> ? <e>
+
+Example #596
+English Input: and kausalya s son was ram
+Expected Output: और कौशलया पतर राम था
+Actual Output: horatius <unk> टरक म <e>
+
+Example #597
+English Input: so i might tell you .
+Expected Output: तो म आपको बता सकता ह .
+Actual Output: तो तमह <unk> <e>
+
+Example #598
+English Input: time for a drink .
+Expected Output: एक जाम पीन का वकत आ गया ह।
+Actual Output: <unk> <unk> <e>
+
+Example #599
+English Input: make him stay , murph .
+Expected Output: उस रोक लो , murph .
+Actual Output: सबह फसला , <e>
+
+Example #600
+English Input: you mark it , sir .
+Expected Output: आप इस निशान , सर।
+Actual Output: सर , यह <e>
+
+Example #601
+English Input: you need to go change .
+Expected Output: आप परिवरतन जान की जररत ह .
+Actual Output: - तमह <unk> <e>
+
